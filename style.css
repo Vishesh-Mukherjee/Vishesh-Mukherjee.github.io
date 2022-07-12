@@ -1,0 +1,76 @@
+body {
+	font-size: medium;
+	font-family: sans-serif;
+	margin: 0px;
+	line-height: 1.6em;
+	background-color: #ffffcc;
+}
+
+#achievements {
+	background-color: #ffffb3;
+	background-image: url(images/trophy.png);
+	background-repeat: no-repeat;
+	background-position: top left;
+	border: 1px dashed black;
+	padding-left: 100px;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0px 10px 0px 10px;
+}
+
+th, td {
+	border: 1px dotted black;
+	padding: 3px;
+}
+
+#leftbar {
+	border: 1px solid black;
+	padding: 0px 10px 0px 10px;
+	background-color: #ffffb3;
+	float: left;
+}
+
+#rightbar {
+	border: 1px solid black;
+	text-align: center;
+	background-color: #ffffb3;
+	float: right;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#main {
+	margin-right: 315px;
+	margin-left: 330px;
+}
+
+h2 {
+	border-bottom: 1px solid black;
+}
+
+a {
+	font-size: 1.7em;
+	text-decoration: none;
+}
+
+a:link {
+	color: #330000;
+}
+
+a:visited {
+	color: #330000;
+}
+
+dl {
+	margin-left: 20px;
+}
+
+dd {
+	padding: 5px 0px 5px 0px;
+}
+
+em {
+	font-weight: bold;
+}
